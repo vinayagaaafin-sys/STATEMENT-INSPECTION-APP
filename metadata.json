@@ -1,0 +1,6 @@
+{
+  "name": "LedgerVault Corporate Statement Inspector",
+  "description": "Client-side corporate current account statement parser, high-value transaction auditor, and cleared cheque register for Indian banks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
